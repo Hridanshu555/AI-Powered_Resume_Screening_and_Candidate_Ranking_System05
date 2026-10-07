@@ -1,0 +1,7 @@
+We are hiring a Machine Learning Engineer with 1-2 years of experience.
+Required Skills:
+- Strong experience in Python, PyTorch, and Scikit-learn
+- Experience building REST APIs using FastAPI
+- Knowledge of NLP libraries like spaCy and NLTK
+- Database experience in SQL
+- Cloud knowledge (AWS or Docker) is a plus
